@@ -46,6 +46,6 @@ Before starting, make sure you have:
 
 [How to Connect SSH in VS Code](#)
 
-> Replace the link above with the actual YouTube URL provided by your instructor.
+
 
 ---
