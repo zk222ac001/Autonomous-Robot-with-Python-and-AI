@@ -1,53 +1,57 @@
-# Opgave 1: Connect SSH in Visual Studio Code
+# Opgave 1: Forbind SSH i Visual Studio Code
 
-![SSH in VS Code](../images/image1.png)
+![SSH i VS Code](../images/image1.png)
 
-## Connect SSH in Visual Studio Code (Complete Assignment)
+## Forbind SSH i Visual Studio Code (Komplet Opgave)
 
-### Objective
+### Formål
 
-After completing this assignment, the student should be able to:
+Efter gennemførelse af denne opgave skal den studerende kunne:
 
-- Create and use SSH keys.
-- Configure the `~/.ssh/config` file.
-- Install and use the **Remote - SSH** extension in Visual Studio Code to connect to a remote server.
-- Open a remote folder in VS Code and run terminal commands through SSH.
-- Troubleshoot common SSH-related issues.
-
----
-
-## Prerequisites (What You Need Ready)
-
-Before starting, make sure you have:
-
-- A local machine with **Visual Studio Code** installed.
-- An internet connection.
-- A remote server with SSH access (IP address/hostname and username), for example:
-  - A Linux VM
-  - A VPS (Virtual Private Server)
-- Access to the remote server's `~/.ssh/authorized_keys` file (this can be updated by the server administrator if necessary).
+* Oprette og anvende SSH-nøgler.
+* Konfigurere filen `~/.ssh/config`.
+* Installere og anvende udvidelsen **Remote - SSH** i Visual Studio Code til at oprette forbindelse til en fjernserver.
+* Åbne en mappe på en fjernserver i VS Code og køre terminalkommandoer via SSH.
+* Fejlsøge almindelige SSH-relaterede problemer.
 
 ---
 
-## Materials / Tools
+## Forudsætninger (Det skal du have klar)
 
-- **Visual Studio Code** (latest version)
-- VS Code extension: **Remote - SSH** (Microsoft)
-- A terminal application:
-  - Bash
-  - PowerShell
-  - macOS Terminal
-  - WSL (Windows Subsystem for Linux)
-- *(Optional)* Git client
+Før du starter, skal du sikre dig, at du har:
+
+* En lokal computer med **Visual Studio Code** installeret.
+* En internetforbindelse.
+* En fjernserver med SSH-adgang (IP-adresse/værtsnavn og brugernavn), for eksempel:
+
+  * En Linux-virtuel maskine (VM)
+  * En VPS (Virtual Private Server)
+* Adgang til fjernserverens `~/.ssh/authorized_keys`-fil (kan opdateres af serveradministratoren, hvis det er nødvendigt).
+
+---
+
+## Materialer / Værktøjer
+
+* **Visual Studio Code** (seneste version)
+* VS Code-udvidelse: **Remote - SSH** (Microsoft)
+* En terminalapplikation:
+
+  * Bash
+  * PowerShell
+  * macOS Terminal
+  * WSL (Windows Subsystem for Linux)
+* *(Valgfrit)* Git-klient
 
 ---
 
-## Video Guide
+## Videovejledning
 
-📺 **YouTube Tutorial:**
+📺 **YouTube-tutorial:**
 
-[How to Connect SSH in VS Code](#)
-
-
+[Sådan opretter du SSH-forbindelse i VS Code](#)
 
 ---
+
+## Forventet Resultat
+
+Når opgaven er afsluttet, skal du kunne oprette forbindelse til en fjernserver direkte fra Visual Studio Code, redigere filer på serveren og anvende den integrerede terminal til at udføre kommandoer via SSH.
