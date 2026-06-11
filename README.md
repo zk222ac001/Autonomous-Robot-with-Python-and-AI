@@ -1,140 +1,149 @@
-# Autonomous Robot with Python and AI
+# Autonom Robot med Python og AI
 
-*A hands-on course in Robotics and Artificial Intelligence*
+*Et praksisbaseret kursus i robotteknologi og kunstig intelligens*
 
-## Course Information
+## Kursusinformation
 
-| Item | Description |
-|--------|-------------|
-| **Semester** | 3rd Semester – Bachelor of Engineering in IT Technology, Zealand Academy |
-| **Duration** | 10 weeks including final project and examination |
-| **ECTS Credits** | Typically 5 ECTS |
-
----
-
-## 🧠 Course Overview
-
-This course teaches students how to design, program, and implement an autonomous robot using Python, Artificial Intelligence (AI), and physical components such as sensors and motors.
-
-The course combines robotics, machine learning, and embedded programming, enabling students to develop practical skills in creating intelligent robotic systems.
+| Parameter    | Beskrivelse                                                       |
+| ------------ | ----------------------------------------------------------------- |
+| **Semester** | 3. semester – Professionsbachelor i IT-Teknologi, Zealand Akademi |
+| **Omfang**   | 10 uger inkl. eksamensprojekt                                     |
+| **ECTS**     | Typisk 5 ECTS                                                     |
 
 ---
 
-## 🎯 Learning Outcomes
+## 🧠 Kursusoversigt
 
-Upon successful completion of the course, students will be able to:
+Dette kursus lærer deltagerne at designe, programmere og implementere en autonom robot ved brug af Python, kunstig intelligens (AI) og fysiske komponenter som sensorer og motorer.
 
-- Understand fundamental robot architecture and sensor integration.
-- Write Python code for robot control and data processing.
-- Implement AI algorithms for navigation and decision-making.
-- Apply computer vision techniques using OpenCV to perceive and interpret surroundings.
-- Train and deploy simple machine learning models for classification and prediction tasks.
-- Design, test, and evaluate autonomous robot behavior in real-world environments.
-- Troubleshoot and optimize robot performance.
+Kurset kombinerer robotteknologi, maskinlæring og embedded programmering, så deltagerne opnår praktiske færdigheder i at udvikle intelligente robotsystemer.
 
 ---
 
-## 🧰 Hardware and Software Requirements
+## 🎯 Læringsmål
+
+Ved afslutningen af kurset vil deltagerne kunne:
+
+* Forstå grundlæggende robotarkitektur og sensorintegration.
+* Skrive Python-kode til robotkontrol og databehandling.
+* Implementere AI-algoritmer til navigation og beslutningstagning.
+* Anvende computer vision med OpenCV til at "se" og tolke omgivelser.
+* Træne og anvende simple maskinlæringsmodeller til klassificering eller forudsigelse.
+* Designe og teste autonom robotadfærd i virkelige omgivelser.
+* Fejlsøge og optimere robottens ydeevne.
+
+---
+
+## 🧰 Hardware- og Softwarekrav
 
 ### Hardware
-*(Can be adapted to different skill levels and budgets)*
 
-- Raspberry Pi 3 Model B+
-- DC Motors
-- L298N Motor Driver
-- Ultrasonic Sensor
-- Infrared (IR) Sensor
-- Line-Following Sensor
-- Camera (PiCam or USB Camera)
-- Battery Pack
-- Robot Chassis
+*(Kan tilpasses niveau og budget)*
+
+* Raspberry Pi 3 Model B+
+* DC-motorer og motordriver (L298N)
+* Sensorer:
+
+  * Ultralydssensor
+  * IR-sensor
+  * Linjefølgersensor
+  * Kamera (PiCam eller USB-kamera)
+* Batteripakke
+* Robotchassis
 
 ### Software
 
-- Python 3.x
-- OpenCV
-- TensorFlow / Keras or Scikit-learn
-- GPIO Libraries (`RPi.GPIO` or `gpiozero`)
-- Jupyter Notebooks
-- Visual Studio Code
-- VNC or SSH for remote access
-- Remote SSH Extension for Visual Studio Code
+* Python 3.x
+* OpenCV
+* TensorFlow/Keras eller Scikit-learn
+* GPIO-biblioteker (`RPi.GPIO` eller `gpiozero`)
+* Jupyter Notebooks
+* Visual Studio Code (VS Code)
+* VNC eller SSH til fjernstyring
+* Remote SSH-udvidelse til Visual Studio Code
 
 ---
 
-## 📚 Topics Covered
+## 📚 Centrale Emner
 
-### Module 1: Introduction to Robotics
-- Robot architectures
-- Embedded systems fundamentals
-- Raspberry Pi setup and configuration
+### Modul 1 – Introduktion til Robotteknologi
 
-### Module 2: Python for Robotics
-- GPIO programming
-- Sensor integration
-- Motor control
-- Data acquisition and processing
+* Robotarkitektur
+* Embedded systemer
+* Opsætning af Raspberry Pi
 
-### Module 3: Autonomous Navigation
-- Obstacle detection and avoidance
-- Path planning
-- Sensor fusion
+### Modul 2 – Python til Robotstyring
 
-### Module 4: Computer Vision
-- Image processing with OpenCV
-- Object detection
-- Color and shape recognition
-- Camera calibration
+* GPIO-programmering
+* Sensorintegration
+* Motorstyring
+* Databehandling
 
-### Module 5: Artificial Intelligence and Machine Learning
-- Introduction to machine learning
-- Classification and prediction models
-- Training datasets
-- Real-time AI integration
+### Modul 3 – Autonom Navigation
 
-### Module 6: Integrated Autonomous Robot Project
-- Robot design and implementation
-- Testing and validation
-- Performance optimization
-- Final project presentation
+* Forhindringsdetektion
+* Kollisionsundgåelse
+* Sensorfusion
+* Simpel ruteplanlægning
 
----
+### Modul 4 – Computer Vision
 
-## 🏗️ Final Project
+* Billedbehandling med OpenCV
+* Objektdetektion
+* Farve- og formgenkendelse
+* Kamerakalibrering
 
-Students will design, build, and program a fully autonomous robot capable of:
+### Modul 5 – Kunstig Intelligens og Maskinlæring
 
-- Navigating an unknown environment
-- Detecting and avoiding obstacles
-- Using computer vision to recognize objects or markers
-- Making decisions based on sensor and AI-generated data
+* Introduktion til maskinlæring
+* Klassifikation og prædiktive modeller
+* Træning af datasæt
+* Integration af AI i robotsystemer
 
-The project will be documented and presented as part of the course assessment.
+### Modul 6 – Integreret Robotprojekt
+
+* Design og konstruktion af robot
+* Test og validering
+* Optimering af ydeevne
+* Dokumentation og præsentation
 
 ---
 
-## 📖 Recommended Resources
+## 🏗️ Eksamensprojekt
 
-- Python Documentation: https://docs.python.org
-- OpenCV Documentation: https://opencv.org
-- Raspberry Pi Documentation: https://www.raspberrypi.org/documentation
-- TensorFlow Documentation: https://www.tensorflow.org
-- Scikit-learn Documentation: https://scikit-learn.org
+Som afsluttende projekt skal de studerende udvikle en autonom robot, der kan:
 
----
+* Navigere i et ukendt miljø
+* Registrere og undgå forhindringer
+* Anvende computer vision til objektgenkendelse
+* Træffe beslutninger baseret på sensor- og AI-data
 
-## 📝 Assessment
-
-Assessment may include:
-
-- Weekly laboratory exercises
-- Programming assignments
-- Practical demonstrations
-- Final autonomous robot project
-- Project report and presentation
+Projektet dokumenteres i en rapport og afsluttes med en præsentation og demonstration.
 
 ---
 
-## License
+## 📝 Evaluering
 
-Educational use only – Zealand Academy, IT Technology Programme.
+Kurset evalueres typisk gennem:
+
+* Øvelsesopgaver og laboratoriearbejde
+* Programmeringsopgaver
+* Praktiske demonstrationer
+* Afsluttende robotprojekt
+* Projektrapport og mundtlig præsentation
+
+---
+
+## 🔗 Ressourcer
+
+* Python: https://docs.python.org
+* OpenCV: https://opencv.org
+* Raspberry Pi: https://www.raspberrypi.org/documentation
+* TensorFlow: https://www.tensorflow.org
+* Scikit-learn: https://scikit-learn.org
+
+---
+
+## © Zealand Akademi
+
+Professionsbachelor i IT-Teknologi – Undervisningsmateriale.
