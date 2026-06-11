@@ -1,5 +1,7 @@
 # Opgave 1: Connect SSH in Visual Studio Code
 
+![SSH in VS Code](../images/image1.png)
+
 ## Connect SSH in Visual Studio Code (Complete Assignment)
 
 ### Objective
