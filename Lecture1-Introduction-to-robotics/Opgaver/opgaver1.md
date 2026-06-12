@@ -55,3 +55,5 @@ Før du starter, skal du sikre dig, at du har:
 ## Forventet Resultat
 
 Når opgaven er afsluttet, skal du kunne oprette forbindelse til en fjernserver direkte fra Visual Studio Code, redigere filer på serveren og anvende den integrerede terminal til at udføre kommandoer via SSH.
+
+# Autoriserede rettigheder af Zuhair Haroon Khan

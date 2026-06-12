@@ -72,3 +72,5 @@ Efter gennemførelse af denne opgave skal den studerende kunne:
 ## Forventet Resultat
 
 Når programmet køres, skal robotten udføre den angivne bevægelsessekvens og derefter stoppe helt uden fejl.
+
+# Autoriserede rettigheder af Zuhair Haroon Khan
