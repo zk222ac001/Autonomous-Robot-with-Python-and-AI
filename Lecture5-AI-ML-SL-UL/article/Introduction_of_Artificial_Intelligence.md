@@ -1,28 +1,24 @@
-# Introduction to Artificial Intelligence
+# Artificial Intelligence and Machine Learning Resources
+This repository uses the following learning resources.
 
-This section is based on the excellent tutorial from the **AI Kit with Raspberry Pi: From Zero to Hero** course by Seeed Studio.
+## Artificial Intelligence
 
-## Original Article
+* Seeed Studio – Introduction to Artificial Intelligence
+  https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/docs/Chapter_1-Introduction_to_AI/Introduction_of_Artificial_Intelligence/
 
-📖 **Read the full article here:**
+* GeeksforGeeks – What is Artificial Intelligence (AI)?
+  https://www.geeksforgeeks.org/artificial-intelligence/what-is-artificial-intelligence-ai/
 
-https://seeed-projects.github.io/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero/docs/Chapter_1-Introduction_to_AI/Introduction_of_Artificial_Intelligence/
+## Machine Learning
 
-## What You Will Learn
-
-* What Artificial Intelligence (AI) is
-* How AI systems work
-* Machine Learning fundamentals
-* Deep Learning concepts
-* Computer Vision basics
-* Real-world AI applications on Raspberry Pi
+* GeeksforGeeks – Machine Learning Tutorial
+  https://www.geeksforgeeks.org/machine-learning/machine-learning/
 
 ## Course Repository
 
-GitHub Repository:
+* AI Kit with Raspberry Pi: From Zero to Hero
+  https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero
 
-https://github.com/Seeed-Projects/Tutorial-of-AI-Kit-with-Raspberry-Pi-From-Zero-to-Hero
+## Credits
 
----
-
-> Credit: Seeed Studio and the contributors of the "Tutorial of AI Kit with Raspberry Pi: From Zero to Hero" project.
+All content, tutorials, examples, and explanations belong to their respective authors and publishers. This repository serves as a collection of learning references and study materials.
