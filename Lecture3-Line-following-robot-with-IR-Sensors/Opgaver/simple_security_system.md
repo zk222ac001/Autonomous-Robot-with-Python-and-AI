@@ -1,4 +1,4 @@
-# 🚨 Opgave 8 – Simple Security Alarm
+# 🚨 Opgave no 1 – Simple Security Alarm
 ## IR-sensor • Raspberry Pi • Python • Buzzer • Event Detection
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
