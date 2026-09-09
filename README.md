@@ -136,5 +136,5 @@ The course is typically assessed through:
 </div>
 <div align="center">
   
-**Developed with coordination with ZUhair (zukh@zealand.dk) og Tomasz.**
+**Developed with coordination with Zuhair Khan (zukh@zealand.dk) og Tomasz.**
 </div>
