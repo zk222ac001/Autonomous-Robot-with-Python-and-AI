@@ -127,11 +127,14 @@ The course is typically assessed through:
 | Scikit-learn | <https://scikit-learn.org> |
 
 ---
-
 <div align="center">
 
 ### Build. Test. Improve. Repeat.
 
 **Zealand Academy - Professional Bachelor in IT Technology**
 
+</div>
+<div align="center">
+  
+**Developed with coordination with Zuhair Khan (zukh@zealand.dk) og Tomasz.**
 </div>
