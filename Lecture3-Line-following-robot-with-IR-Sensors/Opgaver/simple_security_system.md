@@ -9,7 +9,7 @@
 
 ---
 
-> ## 🎯 Mission
+> ## 🎯 Hvad du skal laver ?
 >
 > Byg et lille **sikkerhedssystem**, hvor en IR-sensor registrerer en person eller et objekt ved en indgang.
 >
